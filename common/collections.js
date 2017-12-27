@@ -1,0 +1,1 @@
+ErdbebenData = new Mongo.Collection('erdbebenData');
